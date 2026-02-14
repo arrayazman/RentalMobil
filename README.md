@@ -64,9 +64,7 @@ Aplikasi sederhana untuk manajemen rental mobil, dibangun menggunakan framework 
 
 ## Penggunaan
 
-1.  **Jalankan Aplikasi**
-    Jika menggunakan Laragon/XAMPP, akses melalui browser: `http://localhost/rental-mobil/public`
-    Atau gunakan built-in server CI4:
+1.  **Jalankan Aplikasi** 
     ```bash
     php spark serve
     ```
